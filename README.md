@@ -21,7 +21,7 @@ To transform publicly available information into **strategic knowledge**, bridgi
 ---
 
 ## Tech Stack
-**Python | Neo4j | NetworkX | Streamlit / React | spaCy | HuggingFace Transformers | GitHub |
+Python | Neo4j | NetworkX | Streamlit / React | spaCy | HuggingFace Transformers | GitHub |
 
 ---
 
